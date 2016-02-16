@@ -1,0 +1,48 @@
+{
+  "name": "sv",
+  "version": "0.1.0",
+  "description": "Schema Validator for Schema.org",
+  "main": "lib/index",
+  "author": {
+    "name": "HyperCloud Studio",
+    "email": "info@nodeunify.com",
+    "url": "www.nodeunify.com"
+  },
+  "contributors": [
+    {
+      "name": "Junxiang Wei",
+      "email": "junxiang.wei@nodeunify.com"
+    },
+    {
+      "name": "Zengliang He",
+      "email": "zengliang.he@nodeunify.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypercloud/sv.git"
+  },
+  "keywords": [
+    "Schema.org",
+    "JSON-LD",
+    "RDFa",
+    "Microdata",
+    "Structured-data"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hypercloud/sv/issues"
+  },
+  "homepage": "https://github.com/hypercloud/sv#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "babel-eslint": "^4.1.7",
+    "babel-preset-es2015": "^6.3.13",
+    "eslint": "^1.10.3",
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
